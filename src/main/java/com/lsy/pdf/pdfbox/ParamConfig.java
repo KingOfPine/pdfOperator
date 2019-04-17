@@ -1,8 +1,8 @@
 package com.lsy.pdf.pdfbox;
 
 import com.alibaba.fastjson.JSON;
-import com.smartdata360.portal.common.utils.MapUtils;
-import com.smartdata360.portal.web.service.pdf.MsgInfo;
+import com.lsy.pdf.MsgInfo;
+import org.apache.commons.collections.MapUtils;
 
 import java.util.ArrayList;
 import java.util.HashMap;

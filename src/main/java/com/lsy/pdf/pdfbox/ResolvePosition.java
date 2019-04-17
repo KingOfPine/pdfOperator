@@ -1,6 +1,6 @@
 package com.lsy.pdf.pdfbox;
 
-import com.smartdata360.portal.common.utils.MapUtils;
+import org.apache.commons.collections.MapUtils;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;
 import org.apache.pdfbox.pdmodel.common.PDStream;

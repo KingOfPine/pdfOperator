@@ -5,7 +5,7 @@ import com.itextpdf.text.DocumentException;
 import com.itextpdf.text.Font;
 import com.itextpdf.text.Paragraph;
 import com.itextpdf.text.pdf.*;
-import com.smartdata360.portal.web.service.pdf.MsgInfo;
+import com.lsy.pdf.MsgInfo;
 import org.apache.pdfbox.util.TextPosition;
 
 import java.io.FileInputStream;
